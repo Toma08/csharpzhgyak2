@@ -1,0 +1,5 @@
+fekete 2 3
+fekete 4 4
+piros 3 0
+fehér 1 9
+fekete 0 5
